@@ -27,12 +27,11 @@ Fue fundamental crear métodos específicos para manejar estos datos (getters, s
 Se usaron las anotaciones @JsonIgnoreProperties y @JsonAlias para obtener los atributos deseados del cuerpo de respuesta json.
 
 <h2> Acceso al proyecto </h2>: 
-Una vez instaladas todas las herramientas de desarrollo, se deben configurar los accesos a la base de datos, un consejo al usar un sistema MAC es verificar el nombre del usuario en la base desde la instalacion, generalmente es el nombre del usuario de sesión que está abierto y no postgres.
+Una vez instaladas todas las herramientas de desarrollo, recomiendo leer la documentación de la API para entender de que forma se pueden edificar consultas y tener nociones básicas de como manejar Postman.
 
 
 <h2> Tecnologías utilizadas </h2>: 
 Java JDK
-Maven
-Spring 
-Postgres
+Biblioteca Gson 
+Postman 
 IntelliJ IDEA
