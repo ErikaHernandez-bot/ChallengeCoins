@@ -1,11 +1,11 @@
 <h1 align="center"> Challenge Conversor de Monedas </h1>
 
 <h2> Descripcion del proyecto </h2>
-Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de
-interacción. Los libros se buscarán a través de la API Gutendex. 
+Conversor de Monedas. Se realizan solicitudes a una API de tasas de cambio, se manipulan los datos JSON y, finalmente, se filtran y muestran las monedas de interés.
 
 <h2> Estado del proyecto </h2>
-Finalizado.
+Finalizado. Se podría agregar una función donde el usuario escriba la moneda que desea u no se le limite a 5 opciopnes, por supúesto se debería mejorar la lógica para 
+que la consulta se realice en menos tiempo.
 
 <h2> Funcionalidad </h2>: 
 Construyendo el Cliente para Solicitudes (HttpClient)
